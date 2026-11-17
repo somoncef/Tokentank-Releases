@@ -7,9 +7,9 @@
 <p align="center">
   <a href="https://github.com/somoncef/Tokentank-Releases/releases/latest/download/Tokentank-Setup.exe"><b>Download for Windows</b></a>
   ·
-  <a href="https://tokentank.vercel.app/">Website</a>
+  <a href="https://headroom-two-dusky.vercel.app">Website</a>
   ·
-  <a href="https://tokentank.vercel.app/pricing/">Pricing</a>
+  <a href="https://headroom-two-dusky.vercel.app/pricing/">Pricing</a>
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@ There is no account, no telemetry, no analytics and no crash reporting. Your
 sign-in token is never copied or sent anywhere. Nobody can see your usage,
 your projects or your prompts.
 
-Full policy: [tokentank.vercel.app/privacy](https://tokentank.vercel.app/privacy/)
+Full policy: [tokentank.vercel.app/privacy](https://headroom-two-dusky.vercel.app/privacy/)
 
 ---
 
@@ -97,11 +97,11 @@ your settings are kept.
 
 ## Support
 
-Something not working? Email **hello@example.com** with your Windows version
+Something not working? Email **somoncef@example.com** with your Windows version
 and what you are seeing.
 
 There is a 14-day money-back guarantee, no questions asked:
-[refund policy](https://tokentank.vercel.app/refunds/).
+[refund policy](https://headroom-two-dusky.vercel.app/refunds/).
 
 ---
 
